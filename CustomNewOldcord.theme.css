@@ -18,9 +18,9 @@
 
 /*main font*/
 body{
-	--font-primary: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
-	--font-display: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-	--font-headline: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font-primary: "Whitney-Book", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font-display: "Whitney-Book", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	--font-headline: "Whitney-Book", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /*linked messages*/
