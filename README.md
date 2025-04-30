@@ -5,7 +5,7 @@ Currently the colour setup is similar to just before the update, only slightly d
 
 you can also add this by putting
 ```
-@import url("https://raw.githubusercontent.com/Pixielart/CustomiseNewOldcord/refs/heads/main/CustomNewOldcord.theme.css");
+@import url("https://raw.githubusercontent.com/abr05/CustomiseNewOldcord/refs/heads/main/CustomNewOldcord.theme.css");
 ```
 in your quick css
 
